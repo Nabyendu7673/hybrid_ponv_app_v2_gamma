@@ -12,7 +12,7 @@ from sklearn.datasets import make_classification
 
 st.set_page_config(layout="wide")
 
-st.title("Hybrid PONV Machine Learning Algorithm [Beta Testing]")
+st.title("Hybrid PONV Machine Learning Algorithm [Beta 2.0]")
 st.markdown("Dr. Nabyendu Biswas, Department of Pharmacology, MKCG Medical College and Hospital")
 
 st.markdown(
